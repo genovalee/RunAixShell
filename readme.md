@@ -1,4 +1,4 @@
-# 執行IX上的SHELL
+# 執行AIX上的SHELL
 <pre style="color:#000000;background:#ffffff;">
 public class RunShell {
     private static final Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
