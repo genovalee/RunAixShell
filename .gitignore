@@ -1,4 +1,5 @@
 .data/
+*.jws
 Client/deploy/
 Client/classes/
 Client/extlibs/
