@@ -1,5 +1,5 @@
 # 執行AIX上的SHELL
-<pre style="color:#000000;background:#ffffff;">
+```java
 public class RunShell {
     private static final Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 
@@ -83,9 +83,9 @@ public class RunShell {
         }
     }
 }
-</pre>
+```
 ## 執行程式
-<pre style="color:#000000;background:#ffffff;">>
+```java
 public class DoRunShell {
     private static final Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 
@@ -108,4 +108,4 @@ public class DoRunShell {
         //        System.out.println("執行完畢!!");
     }
 }
-</pre>
+```
